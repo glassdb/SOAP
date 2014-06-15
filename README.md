@@ -16,3 +16,7 @@ Original repositories:
 
 *  http://squeaksource.blueplane.jp/SOAP/
 *  http://squeaksource.blueplane.jp/SoXML.html
+
+## Travis CI
+
+**GemStone3.x** [![Build Status](https://travis-ci.org/glassdb/SOAP.png?branch=master)](https://travis-ci.org/glassdb/SOAP)
