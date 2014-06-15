@@ -9,7 +9,7 @@ Port to GemStone/S 3.x in progress...
 Metacello new
   baseline: 'SOAP';
   repository: 'github://glassdb/SOAP:master/repository';
-  loads.
+  load.
 ```
 
 Original repositories: 
