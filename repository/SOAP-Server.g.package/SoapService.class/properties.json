@@ -1,0 +1,17 @@
+{
+	"category" : "SOAP-Server-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MU 10/5/2002 01:28",
+	"instvars" : [
+		"signature",
+		"selector",
+		"implementor",
+		"targetObjectURI" ],
+	"name" : "SoapService",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

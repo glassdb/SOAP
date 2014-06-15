@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"example1" : "mu 8/2/2006 16:34",
+		"initTypeDict" : "mu 1/20/2007 10:35",
+		"initialize" : "mu 5/10/2007 10:24",
+		"useXsiNullAttribute" : "mu 1/1/2002 19:32",
+		"useXsiNullAttribute:" : "mu 1/1/2002 19:33" },
+	"instance" : {
+		"basicDecodeXmlElementTyped:value:" : "dkh 11/04/2008 14:07",
+		"decodeNilXmlElement:" : "mu 8/2/2006 10:12",
+		"isArrayType:" : "mu 9/4/2007 18:07",
+		"remember:ifExistsId:" : "mu 8/2/2006 09:30" } }

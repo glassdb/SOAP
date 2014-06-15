@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Client-Http",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 04/03/2009 14:29",
+	"instvars" : [
+		 ],
+	"name" : "SoapHttpConnector",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractConnector",
+	"type" : "normal" }

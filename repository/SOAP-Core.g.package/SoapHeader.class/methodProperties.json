@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"localName" : "mu 1/12/2002 03:05" },
+	"instance" : {
+		"addHeaderEntry:" : "mu 5/5/2001 01:47",
+		"disableMustUnderstand" : "mu 4/22/2001 02:38",
+		"enableMustUnderstand" : "mu 4/22/2001 02:38",
+		"headerEntries" : "mu 5/5/2001 01:43",
+		"headerEntries:" : "mu 5/5/2001 01:44",
+		"isHeader" : "mu 1/14/2002 02:45",
+		"isMustUnderstandEnabled" : "mu 4/22/2001 02:38" } }

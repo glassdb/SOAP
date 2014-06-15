@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"bootstrapPackage:from:" : "dkh 10/26/2009 12:32",
+		"ensureMetacello" : "dkh 10/31/2009 21:14",
+		"isMetacelloConfig" : "dkh 10/26/2009 12:32",
+		"project" : "dkh 10/26/2009 12:32" },
+	"instance" : {
+		"baseline0231:" : "DaleHenrichs 03/20/2010 10:04",
+		"baseline0232:" : "DaleHenrichs 03/20/2010 10:02",
+		"project" : "dkh 10/26/2009 12:32",
+		"version0231:" : "dkh 10/27/2009 17:33",
+		"version0232:" : "dkh 10/27/2009 17:33",
+		"version0233:" : "dkh 10/19/2011 17:19" } }

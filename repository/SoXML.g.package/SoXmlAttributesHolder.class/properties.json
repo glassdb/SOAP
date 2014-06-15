@@ -1,0 +1,15 @@
+{
+	"category" : "SoXML-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"namespaceDict",
+		"otherDict" ],
+	"name" : "SoXmlAttributesHolder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

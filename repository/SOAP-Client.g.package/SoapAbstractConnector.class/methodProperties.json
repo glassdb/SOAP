@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"initialize" : "MU 10/5/2002 02:26",
+		"initializeAfterLoad" : "mu 5/1/2003 18:00",
+		"initializeAll" : "mu 8/28/2002 17:06",
+		"obsolete" : "mu 5/1/2003 18:00",
+		"showLog" : "mu 1/5/2002 00:15",
+		"showLog:" : "mu 1/5/2002 00:15",
+		"transportName" : "mu 8/28/2002 17:02" },
+	"instance" : {
+		"debugReturn:" : "ew 02/06/2008 13:08",
+		"debugSend:to:with:" : "ew 02/06/2008 13:08",
+		"envelopeBuilder" : "mu 8/28/2002 16:54",
+		"envelopeBuilder:" : "mu 8/28/2002 16:54",
+		"send:to:with:" : "mu 1/5/2002 00:08" } }

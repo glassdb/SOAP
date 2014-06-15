@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"skipInteropTesting" : "dkh 11/04/2008 15:05" },
+	"instance" : {
+		"clientClass" : "dkh 11/04/2008 10:14",
+		"expectedFailures" : "dkh 09/14/2011 15:22",
+		"setUp" : "dkh 11/04/2008 15:01",
+		"tearDown" : "dkh 11/04/2008 15:00",
+		"testEchoLargeIntegerErrors" : "dkh 11/04/2008 17:14",
+		"testFloatOverflow" : "dkh 11/04/2008 17:11",
+		"testFloatUnderflow" : "dkh 11/04/2008 17:07",
+		"testRaiseMNU" : "dkh 11/04/2008 16:00" } }

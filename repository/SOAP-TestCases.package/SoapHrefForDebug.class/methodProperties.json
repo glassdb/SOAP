@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:in:" : "mu 4/23/2007 19:59" },
+	"instance" : {
+		"basicInspect" : "mu 4/23/2007 19:43",
+		"becomeReal" : "mu 4/23/2007 20:08",
+		"doesNotUnderstand:" : "mu 4/23/2007 20:10",
+		"realObject" : "mu 4/23/2007 20:05",
+		"referenceDict" : "mu 4/23/2007 19:20",
+		"referenceDict:" : "mu 4/23/2007 19:20",
+		"resolve" : "mu 4/23/2007 19:56",
+		"safeBecomeForward:" : "dkh 04/03/2009 14:58",
+		"target" : "mu 4/23/2007 19:20",
+		"target:" : "mu 4/23/2007 20:05",
+		"yourself" : "mu 4/23/2007 20:08" } }

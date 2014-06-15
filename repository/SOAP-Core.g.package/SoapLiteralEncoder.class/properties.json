@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Encoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mu 3/31/2007 16:17",
+	"instvars" : [
+		 ],
+	"name" : "SoapLiteralEncoder",
+	"pools" : [
+		 ],
+	"super" : "SoapStandardEncoder",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Example-Interop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:32",
+	"instvars" : [
+		 ],
+	"name" : "SoapInteropServiceImpl",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

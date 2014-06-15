@@ -1,0 +1,15 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:19",
+	"instvars" : [
+		"context",
+		"envelope" ],
+	"name" : "SoapMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

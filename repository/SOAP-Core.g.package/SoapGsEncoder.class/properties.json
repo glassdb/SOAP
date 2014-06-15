@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Encoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 10/11/2008 09:54",
+	"instvars" : [
+		 ],
+	"name" : "SoapGsEncoder",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractEncoder",
+	"type" : "normal" }

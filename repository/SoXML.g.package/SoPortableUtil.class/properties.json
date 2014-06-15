@@ -1,0 +1,14 @@
+{
+	"category" : "SoXML-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoPortableUtil",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "SOAP-Example-Translate",
+	"classinstvars" : [
+		"callEntry",
+		"targetObjectURI",
+		"namespace",
+		"host",
+		"port",
+		"modeMap" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:32",
+	"instvars" : [
+		"translateCall" ],
+	"name" : "SoapTranslationClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

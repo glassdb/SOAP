@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-Core-Encoding",
+	"classinstvars" : [
+		"complexTypeDict",
+		"customComplexTypeDict" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"complexTypeDict",
+		"customComplexTypeDict" ],
+	"name" : "SoapStandardEncoder",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractEncoder",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+*soap-client
+undefinedSymbolsSOAPClient
+
+	^#( #NetNameResolver )

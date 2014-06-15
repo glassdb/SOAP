@@ -1,0 +1,18 @@
+{
+	"category" : "SOAP-Core-Decoding",
+	"classinstvars" : [
+		"complexTypeDict",
+		"customComplexTypeDict",
+		"arrayTypeDict" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"complexTypeDict",
+		"customComplexTypeDict",
+		"arrayTypeDict" ],
+	"name" : "SoapStandardDecoder",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractDecoder",
+	"type" : "normal" }

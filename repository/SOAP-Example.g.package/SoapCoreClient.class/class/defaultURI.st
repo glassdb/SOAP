@@ -1,0 +1,5 @@
+private
+defaultURI
+	"self initialize"
+
+	^''

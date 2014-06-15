@@ -1,0 +1,3 @@
+actions-hooks
+getResponseContents
+	self subclassResponsibility

@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Http",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MU 10/5/2002 01:30",
+	"instvars" : [
+		"intent" ],
+	"name" : "SoapAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

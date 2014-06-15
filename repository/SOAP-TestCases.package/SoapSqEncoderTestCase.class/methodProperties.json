@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testEncodingInteger" : "mu 7/2/2001 00:13",
+		"testEncodingNil" : "mu 7/2/2001 00:20",
+		"testEncodingObject" : "dkh 10/11/2008 10:12",
+		"testEncodingString" : "mu 7/2/2001 00:14" } }

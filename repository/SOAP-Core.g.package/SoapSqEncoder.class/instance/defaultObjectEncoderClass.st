@@ -1,0 +1,3 @@
+defaults
+defaultObjectEncoderClass
+	^ReferenceStream

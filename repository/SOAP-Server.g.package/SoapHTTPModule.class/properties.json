@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Server-HTTP-Hyper",
+	"classinstvars" : [
+		"showLog" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 10/21/2008 16:20",
+	"instvars" : [
+		"envelopeBuilder" ],
+	"name" : "SoapHTTPModule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

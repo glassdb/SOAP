@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"registerAllServices" : "dkh 11/04/2008 15:27" },
+	"instance" : {
+		"echoBase64:" : "dkh 11/06/2008 16:37",
+		"echoBoolean:" : "dkh 11/04/2008 11:11",
+		"echoFloat:" : "dkh 11/04/2008 14:19",
+		"echoFloatArray:" : "dkh 11/04/2008 14:32",
+		"echoInteger:" : "dkh 11/04/2008 14:19",
+		"echoIntegerArray:" : "dkh 11/04/2008 14:30",
+		"echoString:" : "dkh 11/04/2008 14:20",
+		"echoStringArray:" : "dkh 11/04/2008 14:36",
+		"echoStruct:" : "dkh 11/04/2008 14:18",
+		"echoStructArray:" : "dkh 04/03/2009 14:32",
+		"echoVoid" : "dkh 11/04/2008 14:21",
+		"raiseMNU" : "dkh 11/04/2008 15:27" } }

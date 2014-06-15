@@ -1,0 +1,15 @@
+{
+	"category" : "SOAP-Client-Http",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ResultMessageTable" ],
+	"commentStamp" : "dkh 04/03/2009 14:29",
+	"instvars" : [
+		"errorCode",
+		"errorContents" ],
+	"name" : "SoapHttpGenericError",
+	"pools" : [
+		 ],
+	"super" : "SoapImplError",
+	"type" : "normal" }

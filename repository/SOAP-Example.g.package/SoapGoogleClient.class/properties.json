@@ -1,0 +1,22 @@
+{
+	"category" : "SOAP-Example-GoogleWebAPI",
+	"classinstvars" : [
+		"licenseKey",
+		"callEntry",
+		"targetObjectURI",
+		"namespace",
+		"host",
+		"port" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"licenseKey",
+		"doGetCachedPage",
+		"doSpellingSuggestion",
+		"doGoogleSearch" ],
+	"name" : "SoapGoogleClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

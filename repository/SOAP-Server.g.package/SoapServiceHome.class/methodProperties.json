@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"new" : "mu 7/22/2001 23:23" },
+	"instance" : {
+		"at:" : "mu 8/29/2003 16:51",
+		"at:ifAbsent:" : "mu 8/29/2003 16:52",
+		"at:ifAbsentPut:" : "mu 8/29/2003 16:52",
+		"at:put:" : "mu 8/29/2003 16:52",
+		"defaultDictionary" : "mu 9/24/2001 01:57",
+		"initialize" : "mu 9/24/2001 01:57",
+		"printOn:" : "MU 10/25/2002 01:24",
+		"removeKey:" : "mu 8/29/2003 16:52",
+		"removeKey:ifAbsent:" : "mu 8/29/2003 16:52",
+		"serviceKeys" : "mu 8/29/2003 16:52",
+		"services" : "mu 11/7/2005 12:05" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-Core-Decoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"target",
+		"referenceDict",
+		"realObject" ],
+	"name" : "SoapHref",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

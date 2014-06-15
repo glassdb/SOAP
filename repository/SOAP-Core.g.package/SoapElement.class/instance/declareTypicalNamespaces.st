@@ -1,0 +1,4 @@
+actions
+declareTypicalNamespaces
+	self declareXsdNamespace.
+	self declareXsiNamespace

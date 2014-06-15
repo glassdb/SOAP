@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"new" : "mu 4/15/2001 00:32" },
+	"instance" : {
+		"asDictionary" : "mu 8/12/2001 20:50",
+		"chopPrefix:" : "mu 3/20/2007 10:52",
+		"declareNamespace:uri:" : "mu 11/19/2005 15:08",
+		"declaredNamespacePrefixes" : "mu 3/20/2007 10:46",
+		"declaredNamespaceURIFor:" : "mu 9/18/2001 19:09",
+		"declaredNamespaceURIFor:ifAbsent:" : "mu 3/20/2007 10:55",
+		"getAttributeLike:" : "MU 3/31/2002 20:17",
+		"getAttributeNamed:" : "mu 8/20/2001 00:07",
+		"hasAttributeLike:" : "MU 3/31/2002 20:05",
+		"hasAttributeNamed:" : "MU 3/24/2002 00:10",
+		"initialize" : "mu 4/15/2001 01:08",
+		"namespaceDict" : "mu 4/15/2001 01:01",
+		"otherDict" : "mu 4/15/2001 00:58",
+		"printOn:" : "mu 4/15/2001 01:47",
+		"printXmlOn:" : "mu 8/12/2001 20:50",
+		"putAttribute:" : "mu 4/15/2001 00:44",
+		"putAttributeNamed:value:" : "mu 3/20/2007 10:53",
+		"removeAttributeNamed:" : "mu 5/3/2001 02:46",
+		"trimAttributePrefixNamed:" : "mu 3/20/2007 10:52",
+		"undeclareNamespaces" : "MU 4/27/2002 00:26",
+		"writeName:on:" : "mu 4/15/2001 00:49",
+		"writeValue:on:" : "mu 4/15/2001 00:51" } }

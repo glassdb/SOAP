@@ -1,0 +1,3 @@
+transport setting
+connectionTimeout
+	^SoapAbstractSocketClient connectionTimeout

@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDoubleUnderflow" : "dkh 11/06/2008 15:28",
+		"testEchoExceptionalFloats" : "dkh 11/06/2008 14:50",
+		"testFloatUnderflow" : "dkh 11/06/2008 15:28" } }

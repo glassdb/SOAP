@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"arrayTypeDict" : "mu 5/10/2007 10:21",
+		"complexTypeDict" : "mu 5/10/2007 10:21",
+		"customComplexTypeDict" : "mu 5/10/2007 10:21",
+		"initTypeDict" : "mu 5/10/2007 10:21",
+		"initialize" : "mu 5/10/2007 10:23" },
+	"instance" : {
+		"arrayTypeDict" : "mu 5/10/2007 10:21",
+		"arrayTypeDict:" : "mu 5/10/2007 10:21",
+		"basicDecodeXmlElement:" : "dkh 11/04/2008 14:10",
+		"basicDecodeXmlElementTyped:value:" : "dkh 11/04/2008 14:07",
+		"complexTypeDict" : "mu 5/10/2007 10:21",
+		"complexTypeDict:" : "mu 5/10/2007 10:21",
+		"customComplexTypeDict" : "mu 5/10/2007 10:21",
+		"customComplexTypeDict:" : "mu 5/10/2007 10:21",
+		"decodeArrayXmlElement:" : "dkh 11/04/2008 14:05",
+		"decodeComplexXmlElementTyped:value:" : "dkh 11/04/2008 14:15",
+		"decodePrimitiveTyped:value:" : "dkh 11/06/2008 16:19",
+		"decodeXmlElement:" : "mu 5/10/2007 10:21",
+		"isArrayType:" : "mu 5/10/2007 10:28",
+		"keyFor:" : "mu 5/10/2007 10:35" } }

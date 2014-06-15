@@ -1,0 +1,3 @@
+actions
+declaredNamespacePrefixes
+	^self attributesHolder declaredNamespacePrefixes

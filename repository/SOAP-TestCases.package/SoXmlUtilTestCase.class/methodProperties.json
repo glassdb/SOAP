@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compString" : "mu 3/27/2001 01:28",
+		"convString" : "mu 3/27/2001 01:20",
+		"nameapacedSimpleXmlString" : "mu 9/24/2001 01:33",
+		"namespacedSimpleXmlElement" : "mu 9/24/2001 01:34",
+		"normalString" : "mu 4/8/2001 23:58",
+		"simpleXmlElement" : "mu 4/15/2001 00:52",
+		"simpleXmlElementWithText" : "mu 4/15/2001 00:52",
+		"simpleXmlString" : "mu 4/11/2001 00:59",
+		"simpleXmlStringWithText" : "mu 4/11/2001 00:59",
+		"testAttribDict" : "mu 4/15/2001 00:52",
+		"testComplexStringWrite" : "mu 4/15/2001 00:52",
+		"testConvStringWrite" : "mu 4/15/2001 00:52",
+		"testElementName" : "dkh 10/12/2008 05:03",
+		"testElementShortName" : "mu 9/24/2001 01:39",
+		"testElementsWithoutTexts" : "mu 4/15/2001 00:52",
+		"testNormalStringWrite" : "mu 4/15/2001 00:52" } }

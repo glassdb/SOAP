@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Server-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 10/21/2008 16:20",
+	"instvars" : [
+		 ],
+	"name" : "SoapServerSetupMap",
+	"pools" : [
+		 ],
+	"super" : "SoapConfigurationMap",
+	"type" : "normal" }

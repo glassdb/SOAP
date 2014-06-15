@@ -1,0 +1,4 @@
+defaults
+defaultObjectEncoderClass
+
+	self halt.

@@ -1,0 +1,3 @@
+constants
+supportedModes
+	^ #(#EnglishTOChinese #EnglishTOFrench #EnglishTOGerman #EnglishTOItalian #EnglishTOJapanese #EnglishTOKorean #EnglishTOPortuguese #EnglishTOSpanish #ChineseTOEnglish #FrenchTOEnglish #FrenchTOGerman #GermanTOEnglish #GermanTOFrench #ItalianTOEnglish #JapaneseTOEnglish #KoreanTOEnglish #PortugueseTOEnglish #RussianTOEnglish #SpanishTOEnglish #SpanishToFrench #PortugueseToFrench #ItalianToFrench #GreekToFrench #GermanToFrench #FrenchToGreek #FrenchToItalian #FrenchToPortuguese #FrenchToDutch #FrenchToSpanish #EnglishToRussian #EnglishToDutch #DutchToEnglish #DutchToFrench #GreekToEnglish )

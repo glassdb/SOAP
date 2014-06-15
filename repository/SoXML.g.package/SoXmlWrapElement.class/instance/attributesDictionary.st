@@ -1,0 +1,3 @@
+actions
+attributesDictionary
+	^self attributesHolder asDictionary

@@ -1,0 +1,3 @@
+actions
+encodeSoapVariable: aSoapVariable
+	self subclassResponsibility

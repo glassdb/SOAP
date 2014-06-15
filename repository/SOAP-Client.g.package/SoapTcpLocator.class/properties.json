@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-Client-Base",
+	"classinstvars" : [
+		"localAddress",
+		"localHost" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 04/03/2009 14:29",
+	"instvars" : [
+		"host",
+		"port" ],
+	"name" : "SoapTcpLocator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"callEntry" : "mu 11/19/2005 14:23",
+		"callEntry:" : "mu 11/19/2005 14:23",
+		"host" : "mu 11/19/2005 14:27",
+		"host:" : "mu 11/19/2005 14:23",
+		"howToUse" : "mu 11/20/2005 00:46",
+		"initialize" : "mu 11/19/2005 17:26",
+		"modeMap" : "mu 11/19/2005 17:28",
+		"modeMap:" : "mu 11/19/2005 17:26",
+		"namespace" : "mu 11/19/2005 14:28",
+		"namespace:" : "mu 11/19/2005 14:23",
+		"newCall" : "mu 11/19/2005 18:06",
+		"port" : "mu 11/19/2005 14:23",
+		"port:" : "mu 11/19/2005 14:23",
+		"prepareModeMap" : "mu 11/19/2005 17:28",
+		"supportedModes" : "mu 11/19/2005 17:23",
+		"targetObjectURI" : "mu 11/19/2005 14:29",
+		"targetObjectURI:" : "mu 11/19/2005 14:23" },
+	"instance" : {
+		"buildTranslateCall" : "mu 11/19/2005 17:34",
+		"modeMap" : "mu 11/19/2005 17:29",
+		"newCall" : "mu 11/19/2005 14:36",
+		"translate:by:" : "mu 11/19/2005 17:37",
+		"translateCall" : "mu 11/19/2005 17:34" } }

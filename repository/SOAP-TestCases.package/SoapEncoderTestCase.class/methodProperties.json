@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testEncodeBase64Binary" : "mu 10/7/2006 14:22",
+		"testEncodeBoolean" : "mu 9/2/2001 01:11",
+		"testEncodeComplexNamedStruct" : "mu 10/8/2006 18:26",
+		"testEncodeComplexNamedStructShared" : "dkh 10/12/2008 06:38",
+		"testEncodeCustomStructType" : "mu 9/23/2007 18:21",
+		"testEncodeCustomStructTypeHavingCustomStructs" : "mu 4/22/2007 17:49",
+		"testEncodeCustomStructTypeSharedInArray" : "dkh 10/12/2008 06:40",
+		"testEncodeCustomStructTypeSharedInStruct" : "dkh 10/12/2008 06:41",
+		"testEncodeFloatArray" : "dkh 10/12/2008 06:10",
+		"testEncodeInteger" : "mu 9/2/2001 01:11",
+		"testEncodeIntegerArray" : "dkh 10/12/2008 06:01",
+		"testEncodeNil" : "mu 10/17/2002 19:10",
+		"testEncodeReferredValue" : "ew 02/05/2008 09:28",
+		"testEncodeSimpleNamedStruct" : "dkh 10/21/2008 14:29",
+		"testEncodeSimpleStruct" : "dkh 10/21/2008 14:06",
+		"testEncodeSimpleStructWithNamespace" : "dkh 10/21/2008 14:29",
+		"testEncodeString" : "mu 9/2/2001 01:11",
+		"testEncodeStringArray" : "MU 7/28/2002 00:51" } }

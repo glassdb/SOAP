@@ -1,0 +1,17 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"connector",
+		"locator",
+		"useColocation",
+		"autoSoapActionIntent" ],
+	"name" : "SoapCall",
+	"pools" : [
+		 ],
+	"super" : "SoapPRCElement",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAsDictionary" : "mu 8/12/2001 19:30",
+		"testDeclareNamespaceURIs" : "mu 9/18/2001 19:20",
+		"testDeclareNamespaces" : "dkh 10/12/2008 05:02",
+		"testDeclareNamespacesAndPutAttributes" : "mu 4/15/2001 01:22",
+		"testPutAttributes" : "mu 4/15/2001 01:10" } }

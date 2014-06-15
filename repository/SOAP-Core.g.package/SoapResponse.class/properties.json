@@ -1,0 +1,18 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		"useDotNetStyleSharedValues" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"returnValue",
+		"outparameters",
+		"fault",
+		"exceptionBuilder",
+		"referenceDict" ],
+	"name" : "SoapResponse",
+	"pools" : [
+		 ],
+	"super" : "SoapPRCElement",
+	"type" : "normal" }

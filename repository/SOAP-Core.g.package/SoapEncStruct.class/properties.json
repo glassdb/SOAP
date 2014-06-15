@@ -1,0 +1,20 @@
+{
+	"category" : "SOAP-Core-Encoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"name",
+		"xsdType",
+		"namespace",
+		"keysAndValues",
+		"dictionary",
+		"keys",
+		"referenceHash" ],
+	"name" : "SoapEncStruct",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

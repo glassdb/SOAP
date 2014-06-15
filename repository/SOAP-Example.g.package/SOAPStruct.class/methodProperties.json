@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"initialize" : "dkh 11/04/2008 14:14" },
+	"instance" : {
+		"=" : "dkh 11/04/2008 16:58",
+		"initialize" : "dkh 10/31/2008 16:09",
+		"varFloat" : "dkh 10/31/2008 16:44",
+		"varFloat:" : "dkh 11/03/2008 15:50",
+		"varInt" : "dkh 10/31/2008 16:44",
+		"varInt:" : "dkh 11/03/2008 15:50",
+		"varString" : "dkh 10/31/2008 16:45",
+		"varString:" : "dkh 11/03/2008 15:50" } }

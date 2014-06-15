@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Client-Base",
+	"classinstvars" : [
+		"debugMode" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 04/03/2009 14:29",
+	"instvars" : [
+		 ],
+	"name" : "SoapLocalRpcConnector",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractConnector",
+	"type" : "normal" }

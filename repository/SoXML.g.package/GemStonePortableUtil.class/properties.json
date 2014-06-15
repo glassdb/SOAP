@@ -1,0 +1,14 @@
+{
+	"category" : "SoXML-GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 04/03/2009 14:28",
+	"instvars" : [
+		 ],
+	"name" : "GemStonePortableUtil",
+	"pools" : [
+		 ],
+	"super" : "SoPortableUtil",
+	"type" : "normal" }

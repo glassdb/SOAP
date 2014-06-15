@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		"defaultSendingPort" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"locator" ],
+	"name" : "SoapCallEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

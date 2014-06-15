@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"encoder:" : "mu 10/9/2006 09:52",
+		"fromArray:" : "MU 3/18/2002 01:09",
+		"fromArray:named:" : "MU 3/25/2002 01:09",
+		"fromArray:named:elementType:" : "MU 8/5/2002 23:56",
+		"fromArray:named:elementType:containerType:namespace:" : "mu 10/9/2006 09:55" },
+	"instance" : {
+		"encoder" : "mu 10/9/2006 09:49",
+		"encoder:" : "mu 6/29/2007 10:03",
+		"fromArray:" : "mu 10/9/2006 09:57",
+		"fromArray:named:" : "mu 10/9/2006 09:57",
+		"fromArray:named:elementType:" : "mu 10/9/2006 09:56",
+		"fromArray:named:elementType:containerType:namespace:" : "mu 4/22/2007 17:45",
+		"isArrayType" : "MU 3/24/2002 00:20",
+		"trimElementTypeAttributePrefix" : "MU 4/27/2002 01:28",
+		"trimForNested" : "MU 4/27/2002 01:33" } }

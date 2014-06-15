@@ -1,0 +1,14 @@
+{
+	"category" : "SoXML-Base",
+	"classinstvars" : [
+		"constDict" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-Example-Interop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:32",
+	"instvars" : [
+		"varInt",
+		"varFloat",
+		"varString" ],
+	"name" : "SOAPStruct",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

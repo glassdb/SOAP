@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoapWrapElement",
+	"pools" : [
+		 ],
+	"super" : "SoXmlWrapElement",
+	"type" : "normal" }

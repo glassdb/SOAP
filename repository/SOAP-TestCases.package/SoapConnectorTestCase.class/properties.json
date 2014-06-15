@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-TestCases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:33",
+	"instvars" : [
+		 ],
+	"name" : "SoapConnectorTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

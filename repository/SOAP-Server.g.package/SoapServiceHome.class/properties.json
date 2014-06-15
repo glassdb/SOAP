@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Server-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 10/21/2008 16:20",
+	"instvars" : [
+		"objectDict" ],
+	"name" : "SoapServiceHome",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

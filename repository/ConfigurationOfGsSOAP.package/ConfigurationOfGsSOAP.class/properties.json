@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfGsSOAP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:38",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfGsSOAP",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SoXML-ParserAdapter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 04/03/2009 14:28",
+	"instvars" : [
+		 ],
+	"name" : "SoYaxXMLParserAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

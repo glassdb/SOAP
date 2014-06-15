@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"complexTypeDict" : "mu 10/7/2006 15:02",
+		"customComplexTypeDict" : "mu 10/7/2006 15:02" },
+	"instance" : {
+		"autoPrefixTo:" : "mu 10/7/2006 13:35",
+		"complexTypeDict" : "mu 10/7/2006 14:57",
+		"complexTypeDict:" : "mu 10/7/2006 14:57",
+		"complexXsdTypeOf:" : "mu 10/8/2006 19:17",
+		"customComplexTypeDict" : "mu 10/7/2006 14:57",
+		"customComplexTypeDict:" : "mu 10/7/2006 14:57",
+		"encodeArraySoapVariable:" : "mu 9/23/2007 18:17",
+		"encodeDictionarySoapVariable:" : "mu 10/7/2006 21:22",
+		"encodeStructSoapVariable:" : "mu 10/8/2006 20:44",
+		"possibleTypeAt:" : "mu 12/14/2006 23:21",
+		"setXmlAttributesFrom:into:" : "mu 10/7/2006 22:13",
+		"setXmlElementHref:into:" : "mu 10/6/2006 23:37",
+		"setXmlElementId:into:" : "mu 10/6/2006 23:37",
+		"setXmlElementNamespace:into:" : "mu 10/8/2006 20:41",
+		"setXmlElementPrefix:into:" : "mu 10/6/2006 23:38",
+		"setXmlElementValue:into:" : "mu 10/6/2006 23:42",
+		"useSharedValuesWhile:" : "mu 6/29/2007 10:31" } }

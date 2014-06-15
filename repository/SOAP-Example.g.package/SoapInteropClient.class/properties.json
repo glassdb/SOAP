@@ -1,0 +1,17 @@
+{
+	"category" : "SOAP-Example-Interop",
+	"classinstvars" : [
+		"host",
+		"port",
+		"targetObjectURI",
+		"namespace" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:32",
+	"instvars" : [
+		 ],
+	"name" : "SoapInteropClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

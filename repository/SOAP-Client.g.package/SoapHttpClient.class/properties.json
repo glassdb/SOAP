@@ -1,0 +1,19 @@
+{
+	"category" : "SOAP-Client-Http",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CrLf",
+		"HTTPProxyPort",
+		"HTTPProxyServer" ],
+	"commentStamp" : "dkh 04/03/2009 14:29",
+	"instvars" : [
+		"soapEnvelopeString",
+		"headerString",
+		"bodyString",
+		"soapAction" ],
+	"name" : "SoapHttpClient",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractSocketClient",
+	"type" : "normal" }

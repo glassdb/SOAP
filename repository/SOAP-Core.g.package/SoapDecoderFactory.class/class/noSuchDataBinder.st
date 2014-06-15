@@ -1,0 +1,3 @@
+accessing-error
+noSuchDataBinder
+	^SoapNoSuchDecoder

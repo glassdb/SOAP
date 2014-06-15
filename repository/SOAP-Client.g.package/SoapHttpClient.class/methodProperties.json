@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"defaultPort" : "mu 12/7/2001 01:39",
+		"host:page:" : "mu 12/19/2001 00:17",
+		"host:port:page:" : "MU 8/18/2002 17:27",
+		"initialize" : "MU 8/8/2002 23:06",
+		"proxyPort" : "dkh 10/23/2008 16:08",
+		"proxyPort:" : "dkh 10/23/2008 16:08",
+		"proxyServer" : "dkh 10/23/2008 16:08",
+		"proxyServer:" : "dkh 10/23/2008 16:08",
+		"url:" : "mu 12/7/2001 01:23" },
+	"instance" : {
+		"getResponse" : "dkh 10/31/2008 15:52",
+		"host" : "dkh 10/23/2008 16:37",
+		"host:port:page:" : "dkh 10/23/2008 16:16",
+		"parseURL:" : "dkh 10/23/2008 15:46",
+		"port" : "dkh 10/23/2008 16:38",
+		"prepareAdditionalsOn:" : "dkh 10/23/2008 16:37",
+		"prepareEnvelope:" : "mu 11/14/2005 12:50",
+		"prepareHeader" : "dkh 10/31/2008 15:49",
+		"proxyPort" : "dkh 10/23/2008 16:09",
+		"proxyServer" : "dkh 10/23/2008 16:09",
+		"proxyURI" : "dkh 10/23/2008 16:25",
+		"send:" : "dkh 10/23/2008 15:23",
+		"send:action:" : "mu 11/14/2005 12:28",
+		"soapAction" : "",
+		"soapAction:" : "mu 12/7/2001 01:12",
+		"specifiedServer" : "dkh 10/23/2008 15:48" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		 ],
+	"name" : "SoapEnvelopeBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+constants
+localName
+	^'Fault'

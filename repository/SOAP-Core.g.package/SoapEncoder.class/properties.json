@@ -1,0 +1,15 @@
+{
+	"category" : "SOAP-Core-Encoding",
+	"classinstvars" : [
+		"useXsiNullAttribute",
+		"useSharedValues" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MU 10/5/2002 01:33",
+	"instvars" : [
+		"useSharedValues" ],
+	"name" : "SoapEncoder",
+	"pools" : [
+		 ],
+	"super" : "SoapStandardEncoder",
+	"type" : "normal" }

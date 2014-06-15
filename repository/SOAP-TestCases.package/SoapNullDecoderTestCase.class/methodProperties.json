@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDecodeBoolean" : "MU 10/25/2002 01:11",
+		"testDecodeInteger" : "MU 10/25/2002 01:12",
+		"testDecodeObject" : "MU 10/25/2002 01:12",
+		"testDecodeString" : "MU 10/25/2002 01:13" } }

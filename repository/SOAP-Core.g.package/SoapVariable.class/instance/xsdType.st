@@ -1,0 +1,4 @@
+accessing
+xsdType
+
+	^xsdType

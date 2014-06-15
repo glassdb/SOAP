@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"encodingStyleURIs",
+		"encoder",
+		"parent" ],
+	"name" : "SoapEncodable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

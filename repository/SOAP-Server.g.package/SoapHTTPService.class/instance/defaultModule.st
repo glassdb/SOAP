@@ -1,0 +1,3 @@
+private
+defaultModule
+	^SoapHTTPModule new

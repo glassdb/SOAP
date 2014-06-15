@@ -1,0 +1,3 @@
+testing
+isSoapEncoder
+	^true

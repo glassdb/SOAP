@@ -1,0 +1,4 @@
+private
+defaultHost
+
+	^'mssoapinterop.org'

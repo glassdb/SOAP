@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"inspectRegisteredServices" : "mu 1/4/2002 23:27",
+		"registerAllServices" : "MU 4/18/2003 17:20",
+		"registerBrowseClassDefinition" : "mu 11/7/2005 11:23",
+		"registerHelloWorld" : "mu 11/7/2005 11:01",
+		"registerReturnComplexDictionary" : "mu 11/7/2005 11:00",
+		"registerReverseArray" : "mu 11/7/2005 11:01",
+		"registerReverseString" : "mu 11/7/2005 11:02",
+		"registerTimeNow" : "mu 11/7/2005 11:02",
+		"registerTranscriptShow" : "mu 11/7/2005 11:02",
+		"runningTransportDescriptions" : "MU 4/18/2003 17:19" },
+	"instance" : {
+		"browseClassDefinition:" : "mu 2/6/2002 02:02",
+		"helloWorld" : "ew 02/11/2008 11:22",
+		"returnComplexDictionary:" : "MU 10/15/2002 01:00",
+		"reverseArray:" : "mu 8/30/2002 02:02",
+		"reverseString:" : "mu 1/9/2002 23:17",
+		"timeNow" : "mu 1/4/2002 22:59",
+		"transcriptShow:" : "mu 1/5/2002 01:04" } }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testInvole" : "mu 10/6/2001 20:09",
+		"testInvoleFail" : "mu 10/6/2001 20:09",
+		"testInvoleInvalidParamName" : "mu 10/6/2001 20:09",
+		"testInvoleTwoArgs" : "mu 10/6/2001 20:09" } }

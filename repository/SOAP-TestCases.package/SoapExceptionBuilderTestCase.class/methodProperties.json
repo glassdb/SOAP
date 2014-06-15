@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fooBarBazFault" : "mu 11/24/2001 01:33",
+		"messageNotUnderstoodFault" : "mu 11/24/2001 01:35",
+		"testMessageNotUnderstoodSignal" : "dkh 10/21/2008 13:43",
+		"testNotExistErrorClassSignal" : "mu 11/24/2001 01:47",
+		"testZeroDivideSignal" : "mu 11/24/2001 01:42",
+		"zeroDivideFault" : "mu 11/24/2001 01:24" } }

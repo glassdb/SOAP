@@ -1,0 +1,3 @@
+factory
+defaultDictionary
+	^Dictionary new

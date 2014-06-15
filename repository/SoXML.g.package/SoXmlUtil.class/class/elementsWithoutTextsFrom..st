@@ -1,0 +1,3 @@
+actions-parse
+elementsWithoutTextsFrom: aParsedXMLElement
+	^self parserAdapter elementsWithoutTextsFrom: aParsedXMLElement

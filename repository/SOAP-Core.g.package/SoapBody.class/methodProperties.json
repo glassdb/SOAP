@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"fromXmlElement:" : "mu 1/16/2002 02:01",
+		"localName" : "mu 1/12/2002 03:04" },
+	"instance" : {
+		"addBodyEntry:" : "mu 5/5/2001 01:47",
+		"addChild:" : "mu 10/1/2006 00:17",
+		"addFault" : "mu 10/27/2001 21:04",
+		"bodyEntries" : "mu 5/5/2001 01:29",
+		"bodyEntries:" : "mu 5/5/2001 01:26",
+		"clearBodyEntries" : "mu 10/13/2001 21:04",
+		"fault" : "mu 4/27/2001 00:18",
+		"fault:" : "mu 5/5/2001 01:50",
+		"findBodyEntriesNamed:" : "mu 9/18/2001 18:43",
+		"findBodyEntryNamed:" : "mu 8/20/2001 00:27",
+		"hasFault" : "MU 11/7/2000 18:41",
+		"isBody" : "mu 1/14/2002 02:45",
+		"isMustUnderstandEnabled" : "mu 4/22/2001 02:47",
+		"privPrintChildrenOn:indent:" : "mu 5/5/2001 01:39" } }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultNamespace" : "mu 11/3/2001 19:30",
+		"defaultNamespace:" : "mu 11/3/2001 19:26",
+		"defaultPrefix" : "mu 11/3/2001 19:26",
+		"defaultPrefix:" : "mu 11/3/2001 19:26",
+		"initialize" : "mu 11/3/2001 19:22" },
+	"instance" : {
+		"buildSoapFaultDetailOn:from:" : "DataCurator 10/21/2008 16:20" } }

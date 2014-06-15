@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoapExampleDoc",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

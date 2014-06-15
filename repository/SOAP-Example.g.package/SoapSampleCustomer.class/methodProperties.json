@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"customerA" : "mu 12/14/2006 19:53",
+		"customerB" : "mu 12/14/2006 19:54",
+		"initialize" : "mu 10/9/2006 10:44" },
+	"instance" : {
+		"age" : "mu 8/2/2006 16:49",
+		"age:" : "mu 8/2/2006 16:49",
+		"dateOfBirth" : "mu 8/2/2006 16:49",
+		"dateOfBirth:" : "mu 8/2/2006 16:49",
+		"name" : "mu 8/2/2006 16:49",
+		"name:" : "mu 8/2/2006 16:49" } }

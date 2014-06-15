@@ -1,0 +1,22 @@
+{
+	"category" : "SoXML-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IsPrintCDATA" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"prefixName",
+		"localName",
+		"name",
+		"value",
+		"attributesHolder",
+		"children",
+		"parent",
+		"isEmptyBody",
+		"isPrintCDATA" ],
+	"name" : "SoXmlWrapElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

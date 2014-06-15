@@ -3,4 +3,7 @@ SOAP
 
 Port to GemStone/S 3.x in progress...
 
-Original repository: http://squeaksource.blueplane.jp/SOAP/
+Original repositories: 
+
+*  http://squeaksource.blueplane.jp/SOAP/
+*  http://squeaksource.blueplane.jp/SoXML.html

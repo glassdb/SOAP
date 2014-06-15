@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"echoBoolean" : "mu 8/20/2001 01:04",
+		"echoInteger" : "mu 8/20/2001 00:14",
+		"testBuildClientSoapFaultEnvelope" : "dkh 10/21/2008 11:14",
+		"testBuildEnvelope" : "dkh 10/21/2008 13:34",
+		"testInheritedEnvelopeEncoding" : "dkh 10/21/2008 13:33" } }

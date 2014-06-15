@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-TestCases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mu 4/23/2007 19:45",
+	"instvars" : [
+		"target",
+		"referenceDict",
+		"realObject" ],
+	"name" : "SoapHrefForDebug",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+defaults
+defaultObjectDecoderClass
+	self halt.

@@ -1,0 +1,15 @@
+{
+	"category" : "SOAP-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultNamespace",
+		"DefaultPrefix" ],
+	"commentStamp" : "DataCurator 08/10/2009 12:19",
+	"instvars" : [
+		 ],
+	"name" : "SoapFaultDetailBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

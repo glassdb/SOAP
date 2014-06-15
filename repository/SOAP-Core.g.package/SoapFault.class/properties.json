@@ -1,0 +1,17 @@
+{
+	"category" : "SOAP-Core-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"faultcode",
+		"faultstring",
+		"faultactor",
+		"detail" ],
+	"name" : "SoapFault",
+	"pools" : [
+		 ],
+	"super" : "SoapElement",
+	"type" : "normal" }

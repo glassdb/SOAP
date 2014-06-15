@@ -1,0 +1,17 @@
+{
+	"category" : "SoXML-Base",
+	"classinstvars" : [
+		"convertCharDict",
+		"parserAdapter",
+		"useNcr",
+		"stringEncoding" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoXmlUtil",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

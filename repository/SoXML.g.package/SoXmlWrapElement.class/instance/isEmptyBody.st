@@ -1,0 +1,4 @@
+accessing
+isEmptyBody
+
+	^isEmptyBody

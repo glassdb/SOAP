@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"at:" : "mu 5/1/2003 17:39",
+		"at:put:" : "mu 5/1/2003 17:24",
+		"implDict" : "mu 5/1/2003 17:19",
+		"initImplDict" : "mu 5/1/2003 17:18",
+		"initialize" : "mu 5/1/2003 17:20",
+		"initializeAll" : "mu 5/26/2003 23:23",
+		"isKom6plus" : "mu 5/26/2003 23:24",
+		"isNG" : "mu 5/26/2003 23:24",
+		"isServerInstalled" : "mu 5/3/2005 02:55",
+		"removeAt:" : "mu 5/1/2003 17:40",
+		"rootImplClassName" : "mu 5/1/2003 17:20" },
+	"instance" : {
+		 } }

@@ -1,0 +1,3 @@
+actions-hooks
+prepareSocket
+	self subclassResponsibility

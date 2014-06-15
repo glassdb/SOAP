@@ -1,0 +1,3 @@
+actions-parse
+elementShortNameFrom: aParsedXMLElement
+	^self parserAdapter elementShortNameFrom: aParsedXMLElement

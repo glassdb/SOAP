@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"implementor:selector:" : "mu 9/18/2001 21:20",
+		"on:named:" : "mu 11/7/2005 11:20",
+		"on:named:paramNames:" : "mu 11/7/2005 11:19" },
+	"instance" : {
+		"getSignatureNamed:" : "ew 02/11/2008 12:48",
+		"implementor" : "mu 9/5/2001 20:24",
+		"implementor:" : "mu 9/5/2001 20:24",
+		"invoke:" : "mu 5/10/2008 21:30",
+		"name" : "mu 9/24/2001 01:50",
+		"pathName" : "mu 1/4/2002 02:03",
+		"printOn:" : "mu 1/4/2002 23:35",
+		"selector" : "mu 9/18/2001 20:43",
+		"selector:" : "mu 9/18/2001 20:43",
+		"setSignatureNamed:" : "mu 11/7/2005 11:00",
+		"setSignatureNamed:paramNames:" : "mu 11/7/2005 11:00",
+		"signature" : "mu 9/18/2001 21:18",
+		"signature:" : "mu 11/7/2005 10:50",
+		"targetObjectURI" : "mu 11/8/2005 09:15",
+		"targetObjectURI:" : "mu 12/28/2001 18:47" } }

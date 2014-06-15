@@ -1,0 +1,20 @@
+{
+	"category" : "SOAP-Core-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"attributesHolder",
+		"subElements",
+		"prefixName",
+		"localName",
+		"name",
+		"value",
+		"parent" ],
+	"name" : "SoapElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

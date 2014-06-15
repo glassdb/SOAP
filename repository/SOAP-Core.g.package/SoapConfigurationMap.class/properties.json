@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Base",
+	"classinstvars" : [
+		"implDict" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		 ],
+	"name" : "SoapConfigurationMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

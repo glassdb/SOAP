@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultObjectEncoderClass" : "dkh 10/11/2008 09:55",
+		"encodeNilSoapVariable:" : "dkh 10/11/2008 09:55",
+		"encodeObjectSoapVariable:" : "dkh 10/11/2008 09:55",
+		"encodeSoapVariable:" : "dkh 10/11/2008 09:55",
+		"stringFromObject:" : "dkh 10/11/2008 09:56" } }

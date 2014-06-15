@@ -1,0 +1,3 @@
+actions
+removeAttributeNamed: aNameString
+	^self attributesHolder removeAttributeNamed: aNameString

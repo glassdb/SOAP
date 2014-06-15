@@ -1,0 +1,22 @@
+{
+	"category" : "SOAP-Client-Base",
+	"classinstvars" : [
+		"showLog",
+		"resolveTimeout",
+		"connectionTimeout",
+		"connectionPool" ],
+	"classvars" : [
+		"HostAddressCache",
+		"UseHostAddressCache" ],
+	"commentStamp" : "MU 10/5/2002 01:38",
+	"instvars" : [
+		"socket",
+		"serverAddress",
+		"host",
+		"port",
+		"reqURI" ],
+	"name" : "SoapAbstractSocketClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

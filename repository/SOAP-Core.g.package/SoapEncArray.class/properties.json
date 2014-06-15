@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Encoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:19",
+	"instvars" : [
+		"encoder" ],
+	"name" : "SoapEncArray",
+	"pools" : [
+		 ],
+	"super" : "SoapWrapElement",
+	"type" : "normal" }

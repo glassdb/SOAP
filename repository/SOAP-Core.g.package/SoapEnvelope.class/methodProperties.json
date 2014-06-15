@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fromXmlElement:" : "mu 1/16/2002 02:04",
+		"localName" : "mu 1/12/2002 03:04" },
+	"instance" : {
+		"addBody" : "mu 10/27/2001 21:07",
+		"addHeader" : "mu 10/27/2001 21:08",
+		"body" : "mu 8/12/2001 20:56",
+		"body:" : "mu 4/22/2001 02:43",
+		"hasFault" : "mu 5/29/2002 23:54",
+		"hasHeader" : "mu 4/22/2001 02:44",
+		"header" : "mu 4/22/2001 00:43",
+		"header:" : "mu 4/22/2001 02:43",
+		"initialize" : "mu 8/12/2001 20:27",
+		"isEnvelope" : "mu 1/14/2002 02:45",
+		"privPrintChildrenOn:indent:" : "mu 5/5/2001 01:41" } }

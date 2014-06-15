@@ -1,0 +1,23 @@
+{
+	"category" : "SOAP-Server-Base",
+	"classinstvars" : [
+		"defaultResponseEncoder",
+		"handlerDict",
+		"useResponseEncoder",
+		"showLog",
+		"useTestServiceHandler" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MU 10/5/2002 01:24",
+	"instvars" : [
+		"serviceHome",
+		"envelope",
+		"context",
+		"responseEncoder",
+		"faultDetailBuilder",
+		"referenceDict" ],
+	"name" : "SoapServiceHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

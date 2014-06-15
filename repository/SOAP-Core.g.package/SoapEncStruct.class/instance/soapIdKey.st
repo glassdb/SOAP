@@ -1,0 +1,3 @@
+accessing
+soapIdKey
+	^self referenceHash

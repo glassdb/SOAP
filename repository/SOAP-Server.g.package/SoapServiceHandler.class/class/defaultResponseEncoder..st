@@ -1,0 +1,3 @@
+accessing
+defaultResponseEncoder: aSoapAbstractEncoder
+	defaultResponseEncoder := SoapAbstractEncoder

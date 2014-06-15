@@ -1,0 +1,21 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"type",
+		"id",
+		"href",
+		"value",
+		"xsdType",
+		"prefix",
+		"namespace" ],
+	"name" : "SoapVariable",
+	"pools" : [
+		 ],
+	"super" : "SoapEncodable",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+factory
+xmlElementClass
+	^SoapWrapElement

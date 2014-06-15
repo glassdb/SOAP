@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoapExampleServiceImpl",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

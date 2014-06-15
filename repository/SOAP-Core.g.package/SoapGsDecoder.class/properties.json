@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Decoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		 ],
+	"name" : "SoapGsDecoder",
+	"pools" : [
+		 ],
+	"super" : "SoapAbstractDecoder",
+	"type" : "normal" }

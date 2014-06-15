@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoapImplError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

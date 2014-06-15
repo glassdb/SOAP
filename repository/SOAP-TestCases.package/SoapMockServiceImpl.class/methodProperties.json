@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doSomething:" : "mu 11/8/2005 08:56",
+		"doSomething:with:" : "mu 11/8/2005 08:56",
+		"doSomething:with:with:" : "mu 11/8/2005 08:56",
+		"thisIsPrivate" : "mu 11/8/2005 08:57" } }

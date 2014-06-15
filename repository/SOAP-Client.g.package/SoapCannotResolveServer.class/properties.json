@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Client-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 04/03/2009 14:29",
+	"instvars" : [
+		 ],
+	"name" : "SoapCannotResolveServer",
+	"pools" : [
+		 ],
+	"super" : "SoapImplError",
+	"type" : "normal" }

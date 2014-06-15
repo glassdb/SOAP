@@ -1,0 +1,3 @@
+actions
+decodeXmlElement: aSoapWrapElement
+	self subclassResponsibility

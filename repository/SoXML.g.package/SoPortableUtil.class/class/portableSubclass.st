@@ -1,0 +1,3 @@
+subclassing
+portableSubclass
+	^GemStonePortableUtil

@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-Decoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"referenceDict" ],
+	"name" : "SoapAbstractDecoder",
+	"pools" : [
+		 ],
+	"super" : "SoapDataBinder",
+	"type" : "normal" }

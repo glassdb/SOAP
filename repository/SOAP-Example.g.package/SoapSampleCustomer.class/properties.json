@@ -1,0 +1,16 @@
+{
+	"category" : "SOAP-Example-CustomComplexType",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:32",
+	"instvars" : [
+		"name",
+		"age",
+		"dateOfBirth" ],
+	"name" : "SoapSampleCustomer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

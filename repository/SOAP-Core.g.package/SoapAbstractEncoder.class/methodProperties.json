@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initTypeDict" : "dkh 10/12/2008 05:18" },
+	"instance" : {
+		"encodeSoapVariable:" : "mu 7/13/2001 23:37",
+		"isLiteralEncoder" : "mu 11/20/2005 12:53",
+		"isSoapEncoder" : "mu 11/19/2005 16:00",
+		"referenceDict" : "mu 10/9/2006 08:55",
+		"referenceDict:" : "mu 10/4/2006 22:30",
+		"reset" : "mu 10/7/2006 15:25",
+		"xmlElementClass" : "mu 7/14/2001 00:36" } }

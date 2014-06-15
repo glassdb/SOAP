@@ -1,0 +1,4 @@
+private
+defaultURI
+
+	self subclassResponsibility

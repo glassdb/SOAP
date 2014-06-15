@@ -1,0 +1,3 @@
+private
+initializeNetwork
+	SpSocket initialize.

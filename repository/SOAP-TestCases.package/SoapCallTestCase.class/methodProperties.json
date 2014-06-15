@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"waitAMoment" : "dkh 10/11/2008 09:29" },
+	"instance" : {
+		"setUp" : "mu 10/15/2006 09:47",
+		"simpleAddService" : "mu 11/10/2001 20:03",
+		"tearDown" : "MU 4/18/2003 17:20",
+		"testAnyArrayHttpCall" : "mu 10/15/2006 09:42",
+		"testCannotConnectHttpCall" : "mu 5/2/2003 16:59",
+		"testCannotConnectResolveCall" : "mu 5/2/2003 16:59",
+		"testCannotResolveHttpCall" : "MU 4/18/2003 16:14",
+		"testComplexSqEncoding" : "dkh 10/22/2008 18:28",
+		"testComplexSqHttpCall" : "mu 10/15/2006 09:45",
+		"testDefaultEncodingCreation" : "mu 6/28/2001 01:16",
+		"testIntegerArrayHttpCall" : "mu 10/15/2006 09:46",
+		"testSimpleColocationCall" : "mu 10/15/2006 09:46",
+		"testSimpleEnvelopeCreatein" : "dkh 10/23/2008 12:19",
+		"testSimpleEnvelopeCreateinForDocumentLiteral" : "dkh 10/23/2008 12:20",
+		"testSimpleHttpCall" : "mu 10/15/2006 09:36",
+		"testSimpleHttpCallWithError" : "mu 10/15/2006 09:48",
+		"testSimpleLocalCall" : "mu 12/16/2006 18:11",
+		"testSimpleLocalCallChangeStyle" : "mu 12/16/2006 18:18",
+		"testSimpleLocalCallWithError" : "mu 11/24/2001 01:52",
+		"testSimpleSqCall" : "mu 12/28/2001 01:35",
+		"testSimpleSqHttpCall" : "mu 10/15/2006 09:47",
+		"testSqEncodingCreation" : "mu 6/28/2001 01:16",
+		"waitAMoment" : "mu 10/15/2006 09:45" } }

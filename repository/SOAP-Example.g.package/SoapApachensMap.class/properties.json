@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Example-CustomComplexType",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 09/13/2011 10:30",
+	"instvars" : [
+		 ],
+	"name" : "SoapApachensMap",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }

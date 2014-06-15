@@ -1,0 +1,3 @@
+actions-hooks
+prepareEnvelope: soapEnvelope
+	self subclassResponsibility

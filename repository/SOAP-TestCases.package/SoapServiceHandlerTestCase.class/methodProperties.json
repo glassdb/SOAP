@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultTargetObjectURI" : "mu 12/27/2001 23:44",
+		"errorEnvelope" : "mu 11/3/2001 20:32",
+		"errorEnvelopeXml" : "mu 11/3/2001 20:33",
+		"referenceUsingEnvelope" : "mu 4/23/2007 09:55",
+		"referenceUsingEnvelopeXml" : "mu 4/23/2007 09:54",
+		"referenceUsingService" : "mu 4/23/2007 10:01",
+		"simpleContext" : "mu 12/27/2001 23:44",
+		"simpleEnvelope" : "mu 9/18/2001 20:12",
+		"simpleEnvelopeWithXsdType" : "mu 10/6/2001 21:05",
+		"simpleEnvelopeXml" : "mu 9/18/2001 21:37",
+		"simpleEnvelopeXmlWithXsdType" : "mu 10/6/2001 21:05",
+		"simpleService" : "mu 12/27/2001 23:45",
+		"testDispatchError" : "dkh 10/22/2008 18:00",
+		"testDispatchSimple" : "mu 1/27/2002 02:18",
+		"testDispatchSimpleWithXsdType" : "dkh 10/23/2008 12:18",
+		"testDispatchSoapNoSuchServiceError" : "mu 11/3/2001 21:50",
+		"testInvokeReferenceUsing" : "mu 4/23/2007 20:20",
+		"testInvokeSimple" : "mu 10/27/2001 18:34",
+		"testInvokeSimpleWithXsdType" : "mu 10/27/2001 18:35",
+		"testRegisterRemoveAll" : "mu 11/8/2005 10:03" } }

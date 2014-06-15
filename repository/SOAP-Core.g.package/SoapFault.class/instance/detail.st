@@ -1,0 +1,3 @@
+elements
+detail
+	^ detail

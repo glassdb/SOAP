@@ -1,0 +1,3 @@
+actions-hooks
+sendBySocket
+	self subclassResponsibility

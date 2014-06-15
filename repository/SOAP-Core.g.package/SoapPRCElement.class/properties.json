@@ -1,0 +1,26 @@
+{
+	"category" : "SOAP-Core-RPC",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultNamespace",
+		"DefaultPrefix" ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		"targetObjectURI",
+		"methodName",
+		"parameters",
+		"optionSignature",
+		"optionHeaderProperties",
+		"transport",
+		"envelope",
+		"context",
+		"namespace",
+		"prefix",
+		"useLiteral",
+		"style" ],
+	"name" : "SoapPRCElement",
+	"pools" : [
+		 ],
+	"super" : "SoapEncodable",
+	"type" : "normal" }

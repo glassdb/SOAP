@@ -1,0 +1,17 @@
+{
+	"category" : "SOAP-Example",
+	"classinstvars" : [
+		"hostAddress",
+		"port",
+		"transport",
+		"targetObjectURI" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SoapExampleClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

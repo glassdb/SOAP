@@ -1,0 +1,14 @@
+{
+	"category" : "SOAP-Core-DataBinding",
+	"classinstvars" : [
+		"dataBindingDict" ],
+	"classvars" : [
+		"DataBindingDict" ],
+	"commentStamp" : "DataCurator 08/10/2009 12:18",
+	"instvars" : [
+		 ],
+	"name" : "SoapDataBindingFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

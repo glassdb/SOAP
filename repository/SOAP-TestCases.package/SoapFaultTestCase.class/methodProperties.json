@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBasicFault" : "mu 2/1/2002 00:10",
+		"testDetailedFault" : "mu 5/6/2001 01:46",
+		"testMinorFaultCodes" : "mu 2/1/2002 00:13" } }

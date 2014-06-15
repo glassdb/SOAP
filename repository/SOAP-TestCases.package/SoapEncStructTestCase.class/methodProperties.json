@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testEncodeBookStruct" : "dkh 10/21/2008 13:30",
+		"testEncodeEmbeddedBookStruct" : "mu 10/7/2006 22:01",
+		"testEncodeSharedBookStruct" : "dkh 10/12/2008 06:42" } }

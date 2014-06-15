@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testIntent" : "mu 1/27/2002 02:29",
+		"testIntentByRequestURI" : "mu 1/27/2002 02:29",
+		"testNoIntent" : "mu 1/27/2002 02:28" } }

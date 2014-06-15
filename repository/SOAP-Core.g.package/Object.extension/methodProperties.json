@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"fromXmlElement:" : "mu 3/31/2007 16:32",
+		"fromXmlElement:with:" : "mu 3/31/2007 16:32" },
+	"instance" : {
+		"asXmlElement:" : "mu 3/31/2007 16:30",
+		"asXmlElement:with:" : "mu 3/31/2007 16:29",
+		"soapIdKey" : "mu 5/11/2008 18:04",
+		"soapIgnorableInstVarNames" : "mu 3/31/2007 16:09" } }

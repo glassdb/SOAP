@@ -1,0 +1,4 @@
+private
+defaultSoapAction
+
+	^'urn:soapinterop'

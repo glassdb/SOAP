@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"client" : "MU 5/3/2002 02:03",
+		"faultcode:" : "MU 5/3/2002 02:04",
+		"fromSoapFault:" : "MU 5/3/2002 02:00",
+		"mustUnderstand" : "MU 5/3/2002 02:03",
+		"server" : "MU 5/3/2002 02:03",
+		"versionMismatch" : "MU 5/3/2002 02:04" },
+	"instance" : {
+		"description" : "MU 5/3/2002 02:08",
+		"detail" : "MU 5/3/2002 02:03",
+		"detail:" : "MU 5/3/2002 02:03",
+		"faultcode" : "MU 5/3/2002 02:02",
+		"faultcode:" : "MU 5/3/2002 02:02",
+		"faultstring" : "MU 5/3/2002 02:03",
+		"faultstring:" : "MU 5/3/2002 02:03",
+		"gsArguments" : "dkh 10/31/2008 12:43",
+		"isResumable" : "mu 11/10/2001 18:50" } }

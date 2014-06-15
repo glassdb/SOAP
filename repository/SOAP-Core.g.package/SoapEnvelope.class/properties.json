@@ -1,0 +1,15 @@
+{
+	"category" : "SOAP-Core-Elements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"header",
+		"body" ],
+	"name" : "SoapEnvelope",
+	"pools" : [
+		 ],
+	"super" : "SoapElement",
+	"type" : "normal" }

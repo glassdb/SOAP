@@ -1,0 +1,4 @@
+accessing
+structValue
+
+	^SOAPStruct new
