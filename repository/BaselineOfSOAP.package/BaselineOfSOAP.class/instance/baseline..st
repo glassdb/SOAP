@@ -42,4 +42,7 @@ baseline: spec
                 requires: #('SOAP-Client' 'SOAP-Server') ];
         package: 'SOAP-TestCases'
           with: [ spec requires: #('SOAP-Client' 'SOAP-Server') ];
+        yourself.
+      spec
+        group: 'CI' with: #('SOAP-TestCases' 'SOAP-Example');
         yourself ]
