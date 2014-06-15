@@ -4,7 +4,7 @@ testEchoArrays
 	| a b x y |
 	a := {1. 2. 3. 456. 78910. 111213. 8. 9. 19. 10. 11.}.
 	self assert: (b := self client echoIntegerArray: a) = a.
-	a := { 3.45194122E+18. 8.92037106. 8.15266775E+17. 1.39723443E-06. 55250456. }.
+	a := { 3.45194122E18. 8.92037106. 8.15266775E17. 1.39723443E-06. 55250456. }.
 	b := self client echoFloatArray: a.
 	self assert:  (x := a collect: [:each | self convertFloatForComparison: each ]) = 
 				(y := b collect: [:each | self convertFloatForComparison: each ]).
