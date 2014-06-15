@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSOAP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSOAP",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
