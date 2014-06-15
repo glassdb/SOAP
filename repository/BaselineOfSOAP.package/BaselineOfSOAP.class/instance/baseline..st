@@ -6,11 +6,6 @@ baseline: spec
     for: #'gemstone'
     do: [ 
       spec
-        configuration: 'GsHyper'
-          with: [ 
-              spec
-                version: '0.232';
-                repository: 'http://seaside.gemtalksystems.com/ss/hyper' ];
         configuration: 'XMLSupport'
           with: [ 
               spec
@@ -29,7 +24,7 @@ baseline: spec
           with: [ 
               spec
                 file: 'SOAP-Core.g';
-                requires: #('SoXML' 'GsHyper') ];
+                requires: #('SoXML') ];
         package: 'SOAP-Client'
           with: [ 
               spec
